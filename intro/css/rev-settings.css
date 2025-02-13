@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600');
+
+.big-heading{
+font-family: 'Open Sans', sans-serif;
+font-size:48pt;
+line-height:normal;
+color:#fff;
+letter-spacing:2px;
+font-weight:600;
+text-transform:uppercase;
+}
+.sub-heading{
+font-family: 'Open Sans', sans-serif;
+font-size: 33pt;
+line-height:normal;
+color:#fff;
+letter-spacing:2px;
+font-weight:300;
+text-transform:uppercase;
+}
+.sub-heading-small{
+font-family: 'Open Sans', sans-serif;
+font-size: 19pt;
+line-height:normal;
+color:#fff;
+letter-spacing:2px;
+font-weight:300;
+text-transform:uppercase;
+}
+
+.img{
+	width:auto;
+	height:auto;
+	overflow: hidden;
+	}
